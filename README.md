@@ -7,7 +7,8 @@
 ### 🚀 Sobre mí
 Soy un apasionado del desarrollo de software, actualmente enfocado en dominar **Java** y el ecosistema **Web (PHP, JS)**. Me encanta crear herramientas que ayuden a otros a aprender.
 
-- 🔭 Actualmente trabajando en: **[Java Lab Training] (Plataforma de retos interactivos).
+- 🔭 Actualmente trabajando en: **Convertir el café en código eficiente.** ☕
+- 💡 Frase del día: **"Escribiendo código limpio hoy para no tener que arreglarlo mañana. ✨"**
 - 🌱 Aprendiendo: Arquitectura de software, seguridad web y optimización de bases de datos.
 - ⚡ Fun fact: Me encanta el Dark Mode siempre 🌙 y el código limpio.
 
