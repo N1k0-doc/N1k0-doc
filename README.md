@@ -22,10 +22,10 @@ Soy un apasionado del desarrollo de software, actualmente enfocado en dominar **
 
 ### 📈 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1k0-doc&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1k0-doc&theme=dracula&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1k0-doc&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1k0-doc&layout=compact&theme=dracula&hide_border=true&langs_count=5" />
 </p>
 
 ### 📱 Conéctate conmigo
