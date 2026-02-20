@@ -1,7 +1,7 @@
 # ¡Hola! Soy Nico 👋 (N1k0-doc)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Java/Java.png" width="200" alt="Java Logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" alt="Java Logo">
 </p>
 
 ### 🚀 Sobre mí
@@ -18,14 +18,13 @@ Soy un apasionado del desarrollo de software, actualmente enfocado en dominar **
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### 📈 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N1k0-doc&show_icons=true&theme=dracula&count_private=true" alt="N1k0-doc Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N1k0-doc&show_icons=true&theme=dracula&count_private=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1k0-doc&layout=compact&theme=dracula&hide=html" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1k0-doc&layout=compact&theme=dracula&hide=html" />
 </p>
 
 ### 📱 Conéctate conmigo
