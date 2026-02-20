@@ -7,7 +7,7 @@
 ### 🚀 Sobre mí
 Soy un apasionado del desarrollo de software, actualmente enfocado en dominar **Java** y el ecosistema **Web (PHP, JS)**. Me encanta crear herramientas que ayuden a otros a aprender.
 
-- 🔭 Actualmente trabajando en: **[Java Lab Training](https://github.com/N1k0-doc/MiProyectoWeb-Final)** (Plataforma de retos interactivos).
+- 🔭 Actualmente trabajando en: **[Java Lab Training] (Plataforma de retos interactivos).
 - 🌱 Aprendiendo: Arquitectura de software, seguridad web y optimización de bases de datos.
 - ⚡ Fun fact: Me encanta el Dark Mode siempre 🌙 y el código limpio.
 
@@ -21,13 +21,13 @@ Soy un apasionado del desarrollo de software, actualmente enfocado en dominar **
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📈 Actividad en GitHub
+### 📊 Actividad en GitHub
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1k0-doc&theme=dracula&hide_border=true" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1k0-doc&theme=dracula" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1k0-doc&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="400" />
 </p>
 
 ### 📱 Conéctate conmigo
